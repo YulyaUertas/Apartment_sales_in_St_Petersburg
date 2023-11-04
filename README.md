@@ -1,6 +1,14 @@
-# Sale-of-apartments-in-St.-Petersburg---real-estate-market-analysis
-Sale of apartments in St.Petersburg - real estate market analysis/Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
+# Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
 
-Using data from Yandex.Real Estate, we determined the market value of real estate properties and typical apartment features.
+## Задачи проекта
+Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов
+недвижимости и типичные параметры квартир
 
-Based on the Yandex.Real Estate service data, we defined the market value of various types of real estate properties, typical apartment features based on the distance from the city center. Data preprocessing was conducted. New data was added. Histograms, box plots, and scatter plots were constructed.
+## Описание проекта
+На основе данных сервиса Яндекс.Недвижимость определена рыночная стоимость
+объектов недвижимости разного типа, типичные параметры квартир, в зависимости от
+удаленности от центра. Проведена предобработка данных. Добавлены новые данные.
+Построены гистограммы, боксплоты, диаграммы рассеивания.
+
+## Навыки и инструменты 
+Matplotlib, исследовательский анализ данных
